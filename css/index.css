@@ -1,0 +1,25 @@
+.swiper-container {
+  width: 320px;
+  height: 504px;
+  position: relative;
+  background: red; }
+  .swiper-container .tu1 {
+    width: 320px;
+    height: 504px;
+    position: absolute;
+    top: 0;
+    left: 0; }
+  .swiper-container .tu2 {
+    width: 312px;
+    height: 501px;
+    position: absolute;
+    top: 0;
+    left: 0; }
+  .swiper-container .tu3 {
+    width: 261px;
+    height: 508px;
+    position: absolute;
+    top: 0;
+    left: 0; }
+
+/*# sourceMappingURL=index.css.map */
